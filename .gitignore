@@ -17,3 +17,6 @@ _autosave-*
 *.csv
 *.rpt
 fp-info-cache
+
+# Historial local de VS Code
+.history/
