@@ -1,0 +1,59 @@
+Informe de estadísticas de la placa
+=============================
+- Fecha: 22/06/2026 10:10:21
+- Proyecto: PlacaCuatroReles
+- Nombre de placa: PlacaCuatroReles
+
+Placa
+-----
+- Anchura: 77.5000 mm
+- Alto: 73.0000 mm
+- Área: 5657.50 mm²
+- Área de cobre frontal: 416.803 mm²
+- Área de cobre posterior: 1674.606 mm²
+- Margen mínimo de pista: 0.5800 mm
+- Ancho mínimo de pista: 2.0000 mm
+- Diámetro mín. de taladro: 0.8000 mm
+- Grosor del apilado de la placa: 1.6000 mm
+
+- Área de huellas frontal: 1971.789 mm²
+- Área de huellas posterior: 510.647 mm²
+- Densidad de componentes frontal: 34.85 %
+- Densidad de componentes posterior: 9.03 %
+Pads
+----
+- Agujero pasante: 47
+- SMD: 0
+- Conector: 0
+- NPTH: 0
+- Almenado: 0
+- Press-fit: 0
+
+Vías
+----
+- Vías pasantes: 0
+- Vías ciegas: 0
+- Vías enterradas: 0
+- Microvías: 0
+
+Componentes
+----------
+
+|                  | Lado frontal | Lado trasero | Total |
+|------------------|--------------|--------------|-------|
+|THT:              |           19 |            0 |    19 |
+|SMD:              |            0 |            0 |     0 |
+|No especificado:  |            4 |            0 |     4 |
+|Total:            |           23 |            0 |    23 |
+
+Agujeros de taladros
+-----------
+
+| Cantidad |   Forma |  Tamaño X |  Tamaño Y | Revestido | Vía/Pad | Capa inicial | Capa final |
+|----------|---------|-----------|-----------|-----------|---------|--------------|------------|
+|       15 | Redondo | 1.0000 mm | 1.0000 mm |       PTH |     Pad |         F.Cu |       B.Cu |
+|       14 | Redondo | 1.3000 mm | 1.3000 mm |       PTH |     Pad |         F.Cu |       B.Cu |
+|        6 | Redondo | 0.8000 mm | 0.8000 mm |       PTH |     Pad |         F.Cu |       B.Cu |
+|        6 | Redondo | 1.5000 mm | 1.5000 mm |       PTH |     Pad |         F.Cu |       B.Cu |
+|        4 | Redondo | 4.0000 mm | 4.0000 mm |       PTH |     Pad |         F.Cu |       B.Cu |
+|        2 | Redondo | 1.1000 mm | 1.1000 mm |       PTH |     Pad |         F.Cu |       B.Cu |

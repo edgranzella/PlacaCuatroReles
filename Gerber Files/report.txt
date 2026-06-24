@@ -1,0 +1,11 @@
+Trazado a 'C:\Users\dgranzella\Documents\Placa cuatro Relé PCB\PlacaCuatroReles\Gerber Files\PlacaCuatroReles-F_Cu.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa cuatro Relé PCB\PlacaCuatroReles\Gerber Files\PlacaCuatroReles-B_Cu.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa cuatro Relé PCB\PlacaCuatroReles\Gerber Files\PlacaCuatroReles-F_Paste.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa cuatro Relé PCB\PlacaCuatroReles\Gerber Files\PlacaCuatroReles-B_Paste.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa cuatro Relé PCB\PlacaCuatroReles\Gerber Files\PlacaCuatroReles-F_Silkscreen.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa cuatro Relé PCB\PlacaCuatroReles\Gerber Files\PlacaCuatroReles-B_Silkscreen.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa cuatro Relé PCB\PlacaCuatroReles\Gerber Files\PlacaCuatroReles-F_Mask.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa cuatro Relé PCB\PlacaCuatroReles\Gerber Files\PlacaCuatroReles-B_Mask.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa cuatro Relé PCB\PlacaCuatroReles\Gerber Files\PlacaCuatroReles-Edge_Cuts.gbr'.
+Archivo de trabajo Gerber 'C:\Users\dgranzella\Documents\Placa cuatro Relé PCB\PlacaCuatroReles\Gerber Files\PlacaCuatroReles-job.gbrjob' creado.
+Info: Listo.

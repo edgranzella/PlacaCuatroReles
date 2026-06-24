@@ -1,0 +1,148 @@
+(footprint "R_Bare_Metal_Element_L10mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Resistor, Bare_Metal_Element series, Bare Metal Strip/Wire, Horizontal, pin pitch=11.4mm, 1W, length*width=12.4*4.8mm^2, https://www.bourns.com/pdfs/PWR4412-2S.pdf")
+	(tags "Resistor Bare_Metal_Element series Bare Metal Strip Wire Horizontal pin pitch 11.4mm 1W length 12.4mm width 4.8mm ")
+	(property "Reference" "REF**"
+		(at 5.7 -2 0)
+		(layer "F.SilkS")
+		(uuid "7b7a533d-d637-4576-ba4e-8b000de8a951")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "R_Bare_Metal_Element_L10mm"
+		(at 5.7 3.52 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c32ae65f-60ad-49ff-ba9b-d191008e0b79")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7460a2ae-4805-4149-8e10-8f439a5ff39d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b623ad58-6bac-4be6-9b0c-20d4dacfc052")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "KiLib_Generator" "resistor/THT"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "24690c60-a80f-4caf-b5a9-4f68bd8a8f9a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.62 -1.5)
+		(end 10.5 -1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f9f1ba16-f73e-405d-b691-347999ae873f")
+	)
+	(fp_line
+		(start -0.62 1.5)
+		(end 10.5 1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "485afc1e-bd47-406e-bc82-f0db5a20cd93")
+	)
+	(fp_rect
+		(start 1.66 -0.375)
+		(end 8.5 0.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "0622534a-5203-4b69-a11f-28027988b56d")
+	)
+	(fp_rect
+		(start -1.5 -1.5)
+		(end 11.5 1.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "3e4923fb-88ac-4a5c-a9c4-cf3b7167e625")
+	)
+	(fp_rect
+		(start -1.5 -1.5)
+		(end 11.5 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "f2a8bfe8-7410-46a0-8dee-1473159d01b6")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1b3bf545-b2a2-4122-b7bd-6972898278b1")
+	)
+	(pad "2" thru_hole circle
+		(at 10 0)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2588c959-6e3f-4366-9d0f-2ac7f9aa6178")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
