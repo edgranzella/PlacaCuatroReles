@@ -4469,7 +4469,7 @@
 		(descr "Terminal Block Phoenix PT-1,5-2-5.0-H, 2 pins, pitch 5mm, size 10x9mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf")
 		(tags "THT Terminal Block Phoenix PT-1,5-2-5.0-H pitch 5mm size 10x9mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J1"
-			(at 8.9 -0.05 180)
+			(at 9.1 2.65 180)
 			(layer "F.SilkS")
 			(uuid "22b68411-6ec2-4af6-af06-405c70e937e8")
 			(effects
@@ -5701,6 +5701,123 @@
 		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "e4b870f4-c6f7-4ec0-9b4c-35dae343b794")
+	)
+	(gr_text "(-)Bast"
+		(at 157.6 95.8 0)
+		(layer "F.SilkS")
+		(uuid "f2e0a8e0-a3a4-4dd3-85d3-c5cff39e1302")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "(B)ZX8"
+		(at 157.7 83.3 0)
+		(layer "F.SilkS")
+		(uuid "ca080b9a-a3b2-4144-832f-cd17c44d2a86")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "(N)\nSir EVO"
+		(at 157.7 116.1 0)
+		(layer "F.SilkS")
+		(uuid "02b736c7-3cf3-42f1-b843-fd4b0939b749")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "(A)\nSir EVO"
+		(at 157.7 122.1 0)
+		(layer "F.SilkS")
+		(uuid "6cbbee90-264b-411d-8f31-d20191aae9d7")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "(-)Sir"
+		(at 157.8 102.3 0)
+		(layer "F.SilkS")
+		(uuid "e9fc3231-71c2-4d96-9af1-6d7b8c45c4b5")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "(V)ZX8"
+		(at 157.9 89.8 0)
+		(layer "F.SilkS")
+		(uuid "f6118d94-d68e-416d-84f3-f79b428b3a1f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "PGM4\n(NA)\n"
+		(at 158 109.7 0)
+		(layer "F.SilkS")
+		(uuid "1528c25e-e0d2-4f6f-a647-2ea01a7b3d2c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-\n"
+		(at 93.9 104.3 0)
+		(layer "F.SilkS")
+		(uuid "26c87d20-c86c-407a-b77b-5927e56419a0")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+"
+		(at 93.8 90.5 0)
+		(layer "F.SilkS")
+		(uuid "df877491-87e3-42aa-8830-c39836729e00")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.75)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
 	)
 	(point
 		(at 89.5 139)
