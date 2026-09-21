@@ -1236,6 +1236,96 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "PGM4 Normal Abierto"
+		(exclude_from_sim no)
+		(at 187.96 108.585 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "2ca7efb7-8a1a-4574-83fa-a5576cc150ef")
+	)
+	(text "Blanco ZX8"
+		(exclude_from_sim no)
+		(at 178.435 29.21 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "2f1b854d-9ac6-4e27-bf01-e60f15230774")
+	)
+	(text "Negativo Bastidor"
+		(exclude_from_sim no)
+		(at 184.15 67.945 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "51baf37f-1cf5-4038-b3e5-2e3260c9233a")
+	)
+	(text "+"
+		(exclude_from_sim no)
+		(at 40.005 96.52 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "5a3b0501-7057-4d68-8fd4-d05c32e9b6ce")
+	)
+	(text "Negativo Sirena\n"
+		(exclude_from_sim no)
+		(at 182.245 87.63 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "7a61be5c-fa71-4601-a048-cf5c946023f9")
+	)
+	(text "-\n"
+		(exclude_from_sim no)
+		(at 40.005 100.965 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "c6840d7e-3d78-42c6-ac86-ad7ae5569b91")
+	)
+	(text "Amarillo Sirena EVO"
+		(exclude_from_sim no)
+		(at 186.69 149.86 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "cf5d3e79-8d9c-404e-8111-105a514f3d2a")
+	)
+	(text "Negativo Sirena EVO\n"
+		(exclude_from_sim no)
+		(at 187.325 128.27 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "e644e7e1-197f-4e23-a707-4fbf680f9194")
+	)
+	(text "Verde ZX8"
+		(exclude_from_sim no)
+		(at 176.53 49.53 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "fe612b52-9540-46ba-8096-f7d6aad41816")
+	)
 	(junction
 		(at 86.36 102.87)
 		(diameter 0)
